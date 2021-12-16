@@ -45,6 +45,6 @@ The session aims to collect theoretical and empirical studies that contribute to
 - Follow the IEEE WCCI 2022 instruction for authors and submit your paper via the IEEE WCCI 2022 online [Submission system](https://wcci2022.org/submission/). 
 - Please specify that your paper is for the Special Session on “ Computational intelligence for industrial sustainability (CIIS)”.
 
-## IEEE WCCI2022 
+## IEEE WCCI2022 Sponsors
 ![pic](https://wcci2022.org/wp-content/uploads/2021/12/WCCI-blocco-sponsor2-1024x340.jpg)  
 
