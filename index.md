@@ -1,7 +1,7 @@
 ## 2022 IEEE WCCI - Special Session on Computational intelligence for industrial sustainability (CIIS)
 
 <p align="center">
-  <img src="https://github.com/youngluoyang/WCCI-CIIS-2022/blob/gh-pages/WCCI2022-padua-logo.png" />
+  <img src="https://wcci2022.org/wp-content/uploads/2020/07/WCCI2022-padua-logo.png" />
 </p>
 
 ## Aims:
@@ -47,6 +47,5 @@ Please follow the IEEE WCCI 2022 instruction for authors and submit your paper v
 Please specify that your paper is for the Special Session on “ Computational intelligence for industrial sustainability (CIIS)”.
 
 ## IEEE WCCI2022 Sponsors
-<img src="https://github.com/youngluoyang/WCCI-CIIS-2022/blob/gh-pages/WCCI-blocco-sponsor2-1024x340%20(6).jpg" width="%50" height="%50" />
-<img src="https://raw.githubusercontent.com/linux-downey/bloc_test/master/picture/Makedown/Makedown.png" width=100 height=60 />
+![pic](https://raw.githubusercontent.com/linux-downey/bloc_test/master/picture/Makedown/Makedown.png)  
 
