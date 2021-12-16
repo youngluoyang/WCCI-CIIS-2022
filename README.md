@@ -1,1 +1,1 @@
-# WCCI-CIIS-2022
+# 2022 IEEE WCCI - Special Session on Computational intelligence for industrial sustainability (CIIS)
