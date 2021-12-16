@@ -35,8 +35,8 @@ The session aims to collect theoretical and empirical studies that contribute to
 
 ## Important Dates:
 
-- Paper Submission: January 31
-- 2022 *Notification of Acceptance: April 26, 2022 
+- Paper Submission: January 31, 2022
+- Notification of Acceptance: April 26, 2022 
 - Final Paper Submission: May 23, 2022 
 - IEEE WCCI 2022, Padua, Italy. 18-23 July 2012
 
