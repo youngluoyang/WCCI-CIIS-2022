@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## 2022 IEEE WCCI - Special Session on Computational intelligence for industrial sustainability (CIIS)
 
-You can use the [editor on GitHub](https://github.com/youngluoyang/WCCI-CIIS-2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+  <img src="https://github.com/youngluoyang/WCCI-CIIS-2022/blob/gh-pages/WCCI2022-padua-logo.png" />
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Aims:
 
-### Markdown
+In the era of “Industry 4.0”, Computational intelligence for industrial sustainability is considered at the forefront of the next generation industrial revolution and its classic methods, such as artificial neural networks, fuzzy logic systems, and evolutionary computing, have been used by researchers across multiple disciplinary fields. Also, a rising demand for intelligent design systems has been seen in the increased requirements of environmental resilience, modularity, mass customisation, flexibility, resource and ecological efficiency, responsiveness, and cost-effectiveness of products and their manufacturing processes. This special session is important and timely to address this trending, by incorporating computational intelligence, design for sustainable manufacturing, life cycle engineering and low carbon manufacturing. The goal for this special session is to encourage discussion and multi-disciplinary knowledge exchange, call for papers reporting various applications of CI to industrial sustainability and related applications, and to collectively make a positive contribution to the UN’s Sustainable Development Goals (SDG17).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Scope:
 
-```markdown
-Syntax highlighted code block
+The session aims to collect theoretical and empirical studies that contribute to developing a better understanding of industrial sustainable development and sustainability, taking into account the key development in computational intelligence, digital manufacturing, life cycle engineering, intelligent design systems and emerging opportunities towards industry 4.0. Potential topics of this special session include, but are not limited to:
 
-# Header 1
-## Header 2
-### Header 3
+- Computational Intelligence for manufacturing sustainability
+- Low carbon manufacturing
+- Industrial symbiosis for manufacturing
+- Eco-efficient Manufacturing
+- Sustainable value creation through industrial symbiosis
+- Decision-making for manufacturing
+- Remanufacturing, reuse, and recycling technologies
+- Design for sustainable manufacturing
+- Intelligent manufacturing resource planning
+- Digital twins and Digital Manufacturing
+- AI for Topology Optimisation
+- Manufacturing Process Planning, Scheduling and Optimisation
 
-- Bulleted
-- List
+## Organisers:
 
-1. Numbered
-2. List
+- Dr Leo Chen Xi’an Jiaotong-Liverpool University, China Email: leo.chen@ieee.org
+- Dr Yang Luo Xi’an Jiaotong-Liverpool University, China Email: Yang.Luo@xjtlu.edu.cn
+- Dr Yufan Zheng Xi’an Jiaotong-Liverpool University, China Email: Yufan.Zheng@xjtlu.edu.cn
+- Prof. Jikai Liu Shandong University Email: jikai_liu@sdu.edu.cn
+- Prof. Yongsheng Ma Southern University of Science and Technology Email: mays@sustech.edu.cn
 
-**Bold** and _Italic_ and `Code` text
+## Important Dates:
 
-[Link](url) and ![Image](src)
-```
+- Paper Submission: January 31
+- 2022 *Notification of Acceptance: April 26, 2022 
+- Final Paper Submission: May 23, 2022 
+- IEEE WCCI 2022, Padua, Italy. 18-23 July 2012
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Submission
 
-### Jekyll Themes
+Please follow the IEEE WCCI 2022 instruction for authors and submit your paper via the IEEE WCCI 2022 online [Submission system](https://wcci2022.org/submission/). 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/youngluoyang/WCCI-CIIS-2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Please specify that your paper is for the Special Session on “ Computational intelligence for industrial sustainability (CIIS)”.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## IEEE WCCI2022 Sponsors
+<img src="https://github.com/youngluoyang/WCCI-CIIS-2022/blob/gh-pages/WCCI-blocco-sponsor2-1024x340%20(6).jpg" width="%50" height="%50" />
